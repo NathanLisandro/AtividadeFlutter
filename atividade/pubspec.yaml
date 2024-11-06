@@ -1,0 +1,22 @@
+name: atividade
+description: Um aplicativo Flutter para encontrar serviços de profissionais.
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  http: ^0.13.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  mockito: ^5.0.0
+
+  build_runner: ^2.1.0
+
+flutter:
+  uses-material-design: true

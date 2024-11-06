@@ -1,0 +1,23 @@
+{
+    "professionals": [
+      {
+        "id": 1,
+        "name": "Luis",
+        "rating": 3.4,
+        "pricePerHour": 25
+      },
+      {
+        "id": 2,
+        "name": "Ana",
+        "rating": 4.5,
+        "pricePerHour": 30
+      },
+      {
+        "id": 3,
+        "name": "João",
+        "rating": 4.0,
+        "pricePerHour": 20
+      }
+    ]
+  }
+  
